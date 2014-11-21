@@ -63,6 +63,7 @@ jquery-rails
 json
 knife-azure
 knife-ec2
+libvirt-ruby
 liquid
 mail
 moneta
@@ -107,6 +108,7 @@ sdoc
 sinatra
 spring
 sqlite3
+systemd-journal
 tarantool
 tarantool-record
 thin
@@ -127,3 +129,5 @@ watir-webdriver
 webgen
 xmpp4r
 yajl-ruby
+zeus
+
